@@ -132,7 +132,7 @@
                     "width": 4.0
                 },
                 "band9": {
-                    "frequency": 1600.0,
+                    "frequency": 16000.0,
                     "gain": 2.0,
                     "mode": "RLC (BT)",
                     "mute": false,
