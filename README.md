@@ -59,7 +59,7 @@ Si tras la instalación el programa no abre o no detecta el servidor de sonido, 
 ```bash
 sudo apt install pipewire-audio-client-libraries libspa-0.2-bluetooth libspa-0.2-jack
 systemctl --user --now enable pipewire pipewire-pulse wireplumber
-
+  ```
 
 ## 🛠️ Cómo aplicar este Preset
 
